@@ -1,5 +1,7 @@
-# street-tech-terms  
+# read nerd talk  
+in a mission to unite boomers and zoomers  
 
+# terms
 - vibe check = run tests  
 ie: I'm gonna vibe check this function  
 
