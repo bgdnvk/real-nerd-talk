@@ -29,3 +29,6 @@ ie:
 
 - NFTs = monkey pictures on blockchain  
 ie: 
+
+- cringe = not a vibe  
+ie: this repo is cringe
