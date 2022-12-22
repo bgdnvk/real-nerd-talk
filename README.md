@@ -16,4 +16,10 @@ ie: this repo is a vibe
 
 - shape rotator = engineer  
 - wordcel = PM  
-ei: the eternal war of engineers vs project managers
+ie: the eternal war of engineers vs project managers  
+
+- AI = a bunch of IFs
+ie: my new startup is using AI to..  
+
+- AGI = AI but with more IFs  
+ie: we need to discover AGI so it can rewrite this COBOL codebase  
