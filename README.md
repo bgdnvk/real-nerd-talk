@@ -23,3 +23,9 @@ ie: my new startup is using AI to..
 
 - AGI = AI but with more IFs  
 ie: we need to discover AGI so it can rewrite this COBOL codebase  
+
+- web3 = blockchain hosted on AWS  
+ie: 
+
+- NFTs = monkey pictures on blockchain  
+ie: 
