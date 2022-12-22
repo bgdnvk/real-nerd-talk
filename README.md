@@ -13,3 +13,7 @@ ie: damn javascript got hands - George Hotz after failing his internship at Twit
 
 - vibe = cooler than a cucumber  
 ie: this repo is a vibe
+
+- shape rotator = engineer  
+- wordcel = PM  
+ei: the eternal war of engineers vs project managers
