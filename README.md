@@ -1,4 +1,4 @@
-# read nerd talk  
+# real nerd talk  
 in a mission to unite boomers and zoomers  
 
 # terms
